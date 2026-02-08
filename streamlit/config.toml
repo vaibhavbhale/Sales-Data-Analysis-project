@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#4e7fe7"
+backgroundColor = "#f9fafb"
+secondaryBackgroundColor = "hsl(0, 100%, 2%)"
+textColor = "#111827"
+font = "sans serif"
+
+[server]
+maxUploadSize = 1024  # 1 GB upload limit
